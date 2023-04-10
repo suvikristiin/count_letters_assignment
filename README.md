@@ -1,1 +1,1 @@
-# count_letters_assignment
+# Count letters assignment
