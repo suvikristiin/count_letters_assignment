@@ -1,0 +1,42 @@
+li {
+  font-size: 22px;
+  list-style: none;
+  min-height: 45px;
+  width: 85%;
+  padding: 10px;
+}
+
+ul {
+  padding: 0%;
+}
+
+h1 {
+  font-size: 42px;
+}
+
+body {
+  padding-left: 5%;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 60%;
+  background-color: #e6e5e5;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px 1px #bab9b9;
+  margin-bottom: 15px;
+}
+
+button {
+  font-size: 16px;
+  background-color: #c9c8c8;
+  margin: auto 10px;
+  border-radius: 5px;
+  height: 40px;
+  width: 100px;
+}
+
+
+
